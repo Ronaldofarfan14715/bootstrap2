@@ -18,3 +18,19 @@ h1{
     font-size: 55px;
     font-weight: bolder;
 }
+.servicios{
+    background-color: honeydew;
+}
+.imgs{
+    
+    height: 40vh;
+    width: 100%;
+
+    background-size: cover;
+    background-position: center;
+}
+h5{
+    font-weight: bolder;
+    font-size: 22px;
+    color: #1A5276;
+}
